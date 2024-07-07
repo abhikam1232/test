@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
     int main(){
+        cout<<endl;
         cout<<" This is the code to find the arae of trapezoid "<<endl;
 
         cout<< " So the base1 is = 20 "<<endl;
